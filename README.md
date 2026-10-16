@@ -1,3 +1,3 @@
-# 205_estadistica_equipo_losiniguables
+# ESTE ES UN REPOSITORIO DE PRUEBA PARA LA CLASE 205
 
 1.- Enviar 
